@@ -1,4 +1,4 @@
-# Project Items:-
+# Project On...:-
 ## K Nearest Neighbors --> unsupervised learning
 ## Linear Regression --> Ecommerce Customers (Website vs App)
 ## Logistic Regression 2 --> Titanic Dataset Project(Survived or Not)
