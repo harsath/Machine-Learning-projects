@@ -1,4 +1,6 @@
 # Projects On... :-
+
+## GDP and Life Satisfaction --> Merging Two Datasets and Predicting the Life Satisfaction value of Peoples using the GDP Value
 ## K Nearest Neighbors --> unsupervised learning
 ## Linear Regression --> Ecommerce Customers (Website vs App)
 ## Logistic Regression 2 --> Titanic Dataset Project(Survived or Not)
